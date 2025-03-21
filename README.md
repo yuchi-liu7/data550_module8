@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Collaborative git exercise
 
 > Practice with branches, fetches, merges, and pushes
@@ -446,3 +447,6 @@ Both *User A* and *User B* should now ensure their local main branch is up to da
 =======
 # data550_module8
 >>>>>>> 3b613bef304193137787d57aab4fc84837854ba7
+=======
+# data550_module8
+>>>>>>> origin/main
